@@ -1,0 +1,5 @@
+experiment,features,players,silhouette_score,ARI_vs_baseline,smallest_cluster,largest_cluster
+baseline,9,378,0.1815,1.0,51,126
+without_AST_TO,8,378,0.1763,0.3316,55,103
+without_PTS_PER36,8,378,0.1813,0.8691,51,126
+EFG_instead_of_TS,9,378,0.1809,0.8517,48,122
